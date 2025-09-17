@@ -41,7 +41,7 @@ const PrivacyPolicy = () => {
         <div className="container mx-auto px-4">
           <div className="max-w-4xl mx-auto prose prose-lg">
             <p className="text-lg text-muted-foreground mb-8">
-              At Iyyanar Enterprises, we respect the trust you place in us when you choose our transport and logistics services. Protecting your personal and business information is as important to us as ensuring your goods are delivered safely and on time.
+              At Iyannar Enterprises, we respect the trust you place in us when you choose our transport and logistics services. Protecting your personal and business information is as important to us as ensuring your goods are delivered safely and on time.
             </p>
             <p className="text-lg text-muted-foreground mb-8">
               This Privacy Policy explains what data we collect, why we collect it, how we protect it, and your rights when engaging with our services.
@@ -109,15 +109,15 @@ const PrivacyPolicy = () => {
             <h2 className="font-heading text-2xl font-bold text-foreground mb-4">Contact Us</h2>
             <p className="mb-4">For any privacy-related questions, requests, or concerns, please contact:</p>
             <div className="bg-secondary/30 p-6 rounded-lg mb-8">
-              <h3 className="font-heading text-lg font-semibold mb-3">Iyyanar Enterprises</h3>
+              <h3 className="font-heading text-lg font-semibold mb-3">Iyannar Enterprises</h3>
               <p className="mb-2">📍 No 60, Umblicampatty, Kadayampatti, Upper Street, Omalur TK, Salem DT, Tamil Nadu – 636351</p>
               <p className="mb-2">📞 Phone: +91 99942 14201 / +91 96009 82184</p>
-              <p>📧 Email: contact@iyannarenterprises.live</p>
+              <p>📧 Email: iyannarenterprises21@gmail.com</p>
             </div>
 
             <div className="text-center text-sm text-muted-foreground border-t pt-6">
               <p>Last Updated: August 2025</p>
-              <p>© 2025 Iyyanar Enterprises. All Rights Reserved.</p>
+              <p>© 2025 Iyannar Enterprises. All Rights Reserved.</p>
             </div>
           </div>
         </div>

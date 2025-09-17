@@ -41,7 +41,7 @@ const ShippingPolicy = () => {
         <div className="container mx-auto px-4">
           <div className="max-w-4xl mx-auto prose prose-lg">
             <p className="text-lg text-muted-foreground mb-8">
-              At Iyyanar Enterprises, we are committed to providing safe, efficient, and timely transportation of goods across Tamil Nadu and beyond. This Logistics Policy outlines how we manage bookings, handle shipments, and ensure smooth delivery of your consignments.
+              At Iyannar Enterprises, we are committed to providing safe, efficient, and timely transportation of goods across Tamil Nadu and beyond. This Logistics Policy outlines how we manage bookings, handle shipments, and ensure smooth delivery of your consignments.
             </p>
 
             <h2 className="font-heading text-2xl font-bold text-foreground mb-4">Order Processing & Dispatch</h2>
@@ -79,7 +79,7 @@ const ShippingPolicy = () => {
             <ul className="mb-8 space-y-2">
               <li>Customers must ensure goods are properly packed and secured before pickup.</li>
               <li>Fragile, hazardous, or special goods must be declared in advance for safe handling.</li>
-              <li>Iyyanar Enterprises provides professional loading and unloading support on request (subject to service charges).</li>
+              <li>Iyannar Enterprises provides professional loading and unloading support on request (subject to service charges).</li>
             </ul>
 
             <h2 className="font-heading text-2xl font-bold text-foreground mb-4">Tracking & Updates</h2>
@@ -109,15 +109,15 @@ const ShippingPolicy = () => {
             <h2 className="font-heading text-2xl font-bold text-foreground mb-4">Need Help?</h2>
             <p className="mb-4">For shipping or logistics-related queries, please contact:</p>
             <div className="bg-secondary/30 p-6 rounded-lg mb-8">
-              <h3 className="font-heading text-lg font-semibold mb-3">Iyyanar Enterprises</h3>
+              <h3 className="font-heading text-lg font-semibold mb-3">Iyannar Enterprises</h3>
               <p className="mb-2">📍 No 60, Umblicampatty, Kadayampatti, Upper Street, Omalur TK, Salem DT, Tamil Nadu – 636351</p>
               <p className="mb-2">📞 Phone: +91 99942 14201 / +91 96009 82184</p>
-              <p>📧 Email: contact@iyannarenterprises.live</p>
+              <p>📧 Email: iyannarenterprises21@gmail.com</p>
             </div>
 
             <div className="text-center text-sm text-muted-foreground border-t pt-6">
               <p>Last Updated: August 2025</p>
-              <p>© 2025 Iyyanar Enterprises. All Rights Reserved.</p>
+              <p>© 2025 Iyannar Enterprises. All Rights Reserved.</p>
             </div>
           </div>
         </div>

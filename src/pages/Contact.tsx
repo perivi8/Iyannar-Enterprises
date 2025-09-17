@@ -116,8 +116,8 @@ const Contact = () => {
                 </div>
                 <h3 className="font-bold text-primary mb-2">Email</h3>
                 <p className="text-gray-600 text-sm">
-                  <a href="mailto:contact@iyannarenterprises.live" className="hover:text-accent">
-                    contact@iyannarenterprises.live
+                  <a href="mailto:iyannarenterprises21@gmail.com" className="hover:text-accent">
+                    iyannarenterprises21@gmail.com
                   </a>
                 </p>
               </CardContent>

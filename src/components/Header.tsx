@@ -3,6 +3,7 @@ import { useState } from "react";
 import { Link, useLocation } from "react-router-dom";
 import { Button } from "@/components/ui/button";
 import { useCart } from "@/contexts/CartContext";
+import logo from "@/assets/logo.png";
 
 const Header = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
@@ -33,8 +34,8 @@ const Header = () => {
         <div className="flex items-center justify-between py-4">
           {/* Logo */}
           <Link to="/" className="flex items-center space-x-2">
-            <div className="w-10 h-10 bg-accent rounded-lg flex items-center justify-center">
-              <span className="text-white font-bold text-xl">I</span>
+            <div className="w-10 h-10 bg-white rounded-lg flex items-center justify-center p-0.5">
+              <img src={logo} alt="Iyannar Enterprises Logo" className="w-full h-full object-contain" />
             </div>
             <div>
               <h1 className="text-white font-heading text-xl font-bold">Iyannar Enterprises</h1>

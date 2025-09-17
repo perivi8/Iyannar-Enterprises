@@ -1,6 +1,7 @@
 import { Clock, Shield, DollarSign, MapPin, Phone, Mail } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Link } from "react-router-dom";
+import logo from "@/assets/logo.png";
 
 const WhyChooseUs = () => {
   const features = [
@@ -93,8 +94,8 @@ const Footer = () => {
           {/* Company Info */}
           <div className="col-span-1 md:col-span-2">
             <div className="flex items-center space-x-2 mb-4">
-              <div className="w-10 h-10 bg-accent rounded-lg flex items-center justify-center">
-                <span className="text-white font-bold text-xl">I</span>
+              <div className="w-10 h-10 bg-white rounded-lg flex items-center justify-center p-0.5">
+                <img src={logo} alt="Iyannar Enterprises Logo" className="w-full h-full object-contain" />
               </div>
               <div>
                 <h3 className="font-heading text-xl font-bold">Iyannar Enterprises</h3>
@@ -116,7 +117,7 @@ const Footer = () => {
               </div>
               <div className="flex items-center">
                 <Mail className="w-4 h-4 mr-2 text-accent" />
-                <span className="text-sm">info@iyannarenterprises.com</span>
+                <span className="text-sm">iyannarenterprises21@gmail.com</span>
               </div>
             </div>
           </div>

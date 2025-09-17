@@ -19,7 +19,7 @@ const About = () => {
         <div className="container mx-auto px-4">
           <div className="max-w-4xl mx-auto text-center">
             <h1 className="text-4xl md:text-6xl font-heading font-bold mb-6">
-              About Iyyanar Enterprises
+              About Iyannar Enterprises
             </h1>
             <p className="text-xl md:text-2xl text-white/90 leading-relaxed">
               Professional transport and logistics services in Salem, Tamil Nadu. 
@@ -38,7 +38,7 @@ const About = () => {
                 Our Story
               </h2>
               <p className="text-lg text-gray-600 mb-6 leading-relaxed">
-                Iyyanar Enterprises was founded with a vision to provide safe, efficient, and timely 
+                Iyannar Enterprises was founded with a vision to provide safe, efficient, and timely 
                 transportation of goods across Tamil Nadu and beyond. Based in Salem, we have grown from 
                 a small local transport service to a comprehensive logistics solution provider.
               </p>
@@ -250,7 +250,7 @@ const About = () => {
                 <CardContent className="p-6">
                   <Mail className="w-12 h-12 text-accent mx-auto mb-4" />
                   <h3 className="text-xl font-bold mb-2">Email Us</h3>
-                  <p className="text-white/90">contact@iyannarenterprises.live</p>
+                  <p className="text-white/90">iyannarenterprises21@gmail.com</p>
                 </CardContent>
               </Card>
             </div>
@@ -271,7 +271,7 @@ const About = () => {
         <div className="container mx-auto px-4">
           <div className="text-center mb-16">
             <h2 className="text-3xl md:text-4xl font-heading font-bold text-primary mb-4">
-              Why Choose Iyyanar Enterprises?
+              Why Choose Iyannar Enterprises?
             </h2>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto">
               We stand out in the logistics industry through our commitment to excellence

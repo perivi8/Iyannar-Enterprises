@@ -41,7 +41,7 @@ const TermsConditions = () => {
         <div className="container mx-auto px-4">
           <div className="max-w-4xl mx-auto prose prose-lg">
             <p className="text-lg text-muted-foreground mb-8">
-              Welcome to Iyyanar Enterprises. By booking our transport services, accessing our website, or engaging with us in any way, you agree to comply with the following Terms & Conditions. These terms govern all logistics services, bookings, and interactions with Iyyanar Enterprises.
+              Welcome to Iyannar Enterprises. By booking our transport services, accessing our website, or engaging with us in any way, you agree to comply with the following Terms & Conditions. These terms govern all logistics services, bookings, and interactions with Iyannar Enterprises.
             </p>
             <p className="text-lg text-muted-foreground mb-8">
               If you do not agree with any part of these terms, please discontinue use of our services.
@@ -51,7 +51,7 @@ const TermsConditions = () => {
             <ul className="mb-8 space-y-2">
               <li>You confirm that you are legally authorized to book transport services either on your own behalf or for your business entity.</li>
               <li>Services must only be used for lawful transportation of goods. Prohibited or illegal goods will not be carried under any circumstances.</li>
-              <li>Iyyanar Enterprises reserves the right to refuse, suspend, or terminate services in cases of misuse, fraud, or regulatory violations.</li>
+              <li>Iyannar Enterprises reserves the right to refuse, suspend, or terminate services in cases of misuse, fraud, or regulatory violations.</li>
             </ul>
 
             <h2 className="font-heading text-2xl font-bold text-foreground mb-4">2. Service Bookings</h2>
@@ -76,7 +76,7 @@ const TermsConditions = () => {
             </ul>
 
             <h2 className="font-heading text-2xl font-bold text-foreground mb-4">5. Liability</h2>
-            <p className="mb-4">Iyyanar Enterprises takes utmost care in handling goods but shall not be liable for:</p>
+            <p className="mb-4">Iyannar Enterprises takes utmost care in handling goods but shall not be liable for:</p>
             <ul className="mb-6 space-y-2">
               <li>Delays caused by traffic, weather, strikes, or force majeure events</li>
               <li>Damage caused by improper packaging by the customer</li>
@@ -101,7 +101,7 @@ const TermsConditions = () => {
             </ul>
 
             <h2 className="font-heading text-2xl font-bold text-foreground mb-4">8. Intellectual Property</h2>
-            <p className="mb-8">All content on our website, including text, images, and branding, is the intellectual property of Iyyanar Enterprises. Unauthorized reproduction or use is prohibited.</p>
+            <p className="mb-8">All content on our website, including text, images, and branding, is the intellectual property of Iyannar Enterprises. Unauthorized reproduction or use is prohibited.</p>
 
             <h2 className="font-heading text-2xl font-bold text-foreground mb-4">9. Governing Law & Jurisdiction</h2>
             <p className="mb-8">These terms are governed by the laws of India, and any disputes will fall under the jurisdiction of the courts in Salem, Tamil Nadu.</p>
@@ -109,15 +109,15 @@ const TermsConditions = () => {
             <h2 className="font-heading text-2xl font-bold text-foreground mb-4">10. Contact Us</h2>
             <p className="mb-4">For questions, clarifications, or assistance regarding these Terms & Conditions, please contact:</p>
             <div className="bg-secondary/30 p-6 rounded-lg mb-8">
-              <h3 className="font-heading text-lg font-semibold mb-3">Iyyanar Enterprises</h3>
+              <h3 className="font-heading text-lg font-semibold mb-3">Iyannar Enterprises</h3>
               <p className="mb-2">📍 No 60, Umblicampatty, Kadayampatti, Upper Street, Omalur TK, Salem DT, Tamil Nadu – 636351</p>
               <p className="mb-2">📞 Phone: +91 99942 14201 / +91 96009 82184</p>
-              <p>📧 Email: contact@iyannarenterprises.live</p>
+              <p>📧 Email: iyannarenterprises21@gmail.com</p>
             </div>
 
             <div className="text-center text-sm text-muted-foreground border-t pt-6">
               <p>Last Updated: August 2025</p>
-              <p>© 2025 Iyyanar Enterprises. All Rights Reserved.</p>
+              <p>© 2025 Iyannar Enterprises. All Rights Reserved.</p>
             </div>
           </div>
         </div>

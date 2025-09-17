@@ -41,7 +41,7 @@ const CancellationRefund = () => {
         <div className="container mx-auto px-4">
           <div className="max-w-4xl mx-auto prose prose-lg">
             <p className="text-lg text-muted-foreground mb-8">
-              At Iyyanar Enterprises, we aim to provide reliable and efficient logistics services. While we plan every booking with care, we understand that circumstances may change. This policy outlines our approach to cancellations and refunds, ensuring fairness for both our customers and operations.
+              At Iyannar Enterprises, we aim to provide reliable and efficient logistics services. While we plan every booking with care, we understand that circumstances may change. This policy outlines our approach to cancellations and refunds, ensuring fairness for both our customers and operations.
             </p>
 
             <h2 className="font-heading text-2xl font-bold text-foreground mb-4">Order Cancellations</h2>
@@ -62,7 +62,7 @@ const CancellationRefund = () => {
             <p className="mb-4">Refunds are considered in the following cases:</p>
             <ul className="mb-6 space-y-2">
               <li>Pre-paid bookings cancelled within the valid cancellation window.</li>
-              <li>Services not fulfilled due to operational reasons from Iyyanar Enterprises.</li>
+              <li>Services not fulfilled due to operational reasons from Iyannar Enterprises.</li>
             </ul>
 
             <h3 className="font-heading text-xl font-semibold text-foreground mb-3">Refund Processing:</h3>
@@ -90,15 +90,15 @@ const CancellationRefund = () => {
             <h2 className="font-heading text-2xl font-bold text-foreground mb-4">Need Help?</h2>
             <p className="mb-4">For cancellation or refund assistance, please contact:</p>
             <div className="bg-secondary/30 p-6 rounded-lg mb-8">
-              <h3 className="font-heading text-lg font-semibold mb-3">Iyyanar Enterprises</h3>
+              <h3 className="font-heading text-lg font-semibold mb-3">Iyannar Enterprises</h3>
               <p className="mb-2">📍 No 60, Umblicampatty, Kadayampatti, Upper Street, Omalur TK, Salem DT, Tamil Nadu – 636351</p>
               <p className="mb-2">📞 Phone: +91 99942 14201 / +91 96009 82184</p>
-              <p>📧 Email: contact@iyannarenterprises.live</p>
+              <p>📧 Email: iyannarenterprises21@gmail.com</p>
             </div>
 
             <div className="text-center text-sm text-muted-foreground border-t pt-6">
               <p>Last Updated: August 2025</p>
-              <p>© 2025 Iyyanar Enterprises. All Rights Reserved.</p>
+              <p>© 2025 Iyannar Enterprises. All Rights Reserved.</p>
             </div>
           </div>
         </div>
